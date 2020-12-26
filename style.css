@@ -1,0 +1,111 @@
+.contentsContainer{
+    padding: 0.2em;
+    margin-bottom: 1em;
+    width:33%;
+}
+
+.contentsList{
+    border: 1px solid #6E6E6E;
+}
+
+.contentsList li{
+    list-style: none;
+}
+
+.bodyContainer{
+    padding: 1em;
+}
+
+.titleContainer{
+    padding-bottom: 0.5em;
+}
+
+.SectionTitle{
+    font-size: 1.4em;
+    font-weight: bold;
+    padding-left:0.4em;
+    float: left;
+}
+
+.SectionHide{
+    text-align: right;
+    margin-left: 1.4em;
+    margin-right: 1.4em;
+    font-weight: bold;
+}
+
+.headContainer{
+    border: 2px solid #6E6E6E;
+    padding: 1.0em;
+    border-radius: 4px;
+}
+
+.Container-Subject{
+    border: 1.2px solid #6E6E6E;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    padding: 1.2em;
+    border-left: 6px solid #0080FF;
+    border-radius: 4px;
+}
+
+.bodyContainer hr{
+    font-weight: 14px;
+}
+
+.replyBtn{
+    text-align: right;
+}
+
+.plusBtn{
+    text-align: right;
+}
+
+.Container-bottom{
+    font-weight: bold;
+    margin-top: 0.5em;
+}
+
+.s1-afterpull{
+    margin-left: 1.0em;
+}
+
+.s1{
+    margin-left: 1.0em;
+    border-left: 6px solid #04B404;
+}
+
+.s2{
+    margin-left: 2.6em;
+}
+
+.s3{
+    margin-left: 3.9em;
+}
+
+.s4{
+    margin-left: 5.2em;
+}
+
+.pull{
+    border: 1.2px solid #6E6E6E;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    padding: 1.2em;
+    border-right: 6px solid #0080FF;
+    border-radius: 4px;
+}
+
+.newSectionBtn{
+    font-weight: blue;
+    text-align: center;
+    background-color: #2E2EFE;
+    padding: 0.5em;
+    color:white;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 6px;
+    margin-bottom: 2.0em;
+}
